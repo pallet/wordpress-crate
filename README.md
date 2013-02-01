@@ -2,7 +2,7 @@
 
 This a crate to install and run wordpress via [Pallet](http://pallet.github.com/pallet).
 
-[Release Notes](https://github.com/pallet/wordpress-crate/blob/master/ReleaseNotes.md)
+[Release Notes](ReleaseNotes.md)
 
 ## Support
 
